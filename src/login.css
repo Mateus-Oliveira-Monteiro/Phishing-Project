@@ -1,0 +1,74 @@
+.form {
+    top: 60%;
+    position: absolute;
+    left: 32%;
+    width: 40%;
+}
+
+
+.input-nome{
+    width: 96%;
+    height: 27px;
+    margin-top: 3%;
+    background-color: transparent;
+    border: transparent;
+    color: #489eb6;
+    text-align: center;
+    font-size: 14px;
+    background-color: white;
+}
+
+
+.input-senha{
+    width: 89%;
+    height: 27px;
+    margin-top: 3.7%;
+    background-color: transparent;
+    border: transparent;
+    color: #489eb6;
+    text-align: center;
+    background-color: white;
+}
+input:focus {
+    box-shadow: 0 0 0 0;
+    outline: 0;
+   
+}
+
+.button-olho{
+    position: relative;
+    left: 90%;
+    bottom: 108px;
+    width: 37px;
+    height: 32px;
+    border: transparent;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+input :focus{
+    background-color: transparent;
+}
+
+.button-container{
+    margin-top: 17px;
+    margin-left: 130px;
+    height: 55px;
+    width: 255px;
+    border: transparent;
+    background-color: transparent;
+    cursor: pointer;
+} 
+
+::-webkit-input-placeholder  { 
+    color:#b5b5b5;
+    font-weight: 200; 
+}
+input:-moz-placeholder { 
+    color:#b5b5b5; 
+    font-weight: 200;
+}
+textarea:-moz-placeholder {
+     color: #b5b5b5; 
+     font-weight: 200;
+}
