@@ -57,9 +57,6 @@ https://phishing-media.vercel.app/
 | [<img src="https://user-images.githubusercontent.com/81173375/173143781-8d0dfa7d-1d02-49e8-839e-a186046b3a98.jpeg" width=155><br><sub>Mateus Monteiro (Frontend)</sub>](https://github.com/Mateus-Oliveira-Monteiro) |  [<img src="https://user-images.githubusercontent.com/81173375/173147856-f353abba-882b-4e2e-8c0a-e2894e2f0076.jpeg" width=155><br><sub>Matheus Dantas (Backend)</sub>](https://github.com/matheus-dr)
 | :---: | :---: 
 
-## License 
-
-The [MIT License]() (MIT)
 
 Copyright :copyright: 2022 - Phishing-Project
  
