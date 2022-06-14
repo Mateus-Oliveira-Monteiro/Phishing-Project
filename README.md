@@ -17,6 +17,8 @@ Project Status: :heavy_check_mark: Concluded
 
 :small_blue_diamond: [Funcionalities](#funcionalities)
 
+:small_blue_diamond: [How it works](#how-it-works)
+
 :small_blue_diamond: [Application Deploy](#application-deploy)
 
 :small_blue_diamond: [Project Developers](#developers)
@@ -25,7 +27,8 @@ Project Status: :heavy_check_mark: Concluded
 ## Project Description 
 
 <p align="justify">
-  Descrição breve do projeto compondo um paragrafo ou dois. 
+  This project was created by me with the simple objective of getting the login and password of the site where my teachers make the call list and release the grades of my school.<br>
+  ⚠️Important: this project had no intention of changing any grade or harming anyone's work, it was just a challenge that I imposed on myself. 
 </p>
 
 ## Funcionalities
@@ -36,27 +39,22 @@ Project Status: :heavy_check_mark: Concluded
 
 :heavy_check_mark: Send user informations for the database 
 
-:heavy_check_mark: Transfer the user to the real website
+:heavy_check_mark: Redirect the user to the real website
+
+## How it works
+ <p>
+as the teachers' computer is in the classroom all the time, I went to it and changed the original site called: "Final Average" to my hosted "fake" site on google favorites.<br>
+When they entered the computer and made the call, they unknowingly clicked and typed the username and password in the input of my fake website and when they clicked "enter" their data is instantly sent to my database and the teacher is redirected to the website original without realizing what happened
+</p>
 
 ## Application Deploy
 
 https://phishing-media.vercel.app/
 
-
-## Use Cases
-
-Explique com mais detalhes como a sua aplicação poderia ser utilizada. O uso de **gifs** aqui seria bem interessante. 
-
-Exemplo: Caso a sua aplicação tenha alguma funcionalidade de login apresente neste tópico os dados necessários para acessá-la.
-
-
-## Database Return
-
-
 ## Developers
 
 
-| [<img src="https://user-images.githubusercontent.com/81173375/173143781-8d0dfa7d-1d02-49e8-839e-a186046b3a98.jpeg" width=155><br><sub>Mateus Monteiro</sub>](https://github.com/Mateus-Oliveira-Monteiro) |  [<img src="https://user-images.githubusercontent.com/81173375/173147856-f353abba-882b-4e2e-8c0a-e2894e2f0076.jpeg" width=155><br><sub>Matheus Dantas</sub>](https://github.com/matheus-dr)
+| [<img src="https://user-images.githubusercontent.com/81173375/173143781-8d0dfa7d-1d02-49e8-839e-a186046b3a98.jpeg" width=155><br><sub>Mateus Monteiro (Frontend)</sub>](https://github.com/Mateus-Oliveira-Monteiro) |  [<img src="https://user-images.githubusercontent.com/81173375/173147856-f353abba-882b-4e2e-8c0a-e2894e2f0076.jpeg" width=155><br><sub>Matheus Dantas (Backend)</sub>](https://github.com/matheus-dr)
 | :---: | :---: 
 
 ## License 
