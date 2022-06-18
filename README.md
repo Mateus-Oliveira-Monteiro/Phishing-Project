@@ -1,5 +1,5 @@
 <h1>Phishing Site</h1>
-Project Status: :heavy_check_mark: Concluded
+Project Status: :heavy_check_mark: Completed
 <br>
 <h2>Languages Used</h2>
 <p align="left">
