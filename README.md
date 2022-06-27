@@ -45,12 +45,25 @@ Project Status: :heavy_check_mark: Completed
 ## How it works
  <p>
 as the teachers' computer is in the classroom all the time, I went to it and changed the original site called: "Final Average" to my hosted "fake" site on google favorites.<br>
-When they entered the computer and made the call, they unknowingly clicked and typed the username and password in the input of my fake website and when they clicked "Login" their data is instantly sent to my database and the teacher is redirected to the website original without realizing what happened
+When they entered the computer and made the call, they unknowingly clicked and typed the username and password in the input of my fake website and when they clicked "Login" their data is instantly sent to my database and the teacher is redirected to the website original without realizing what happened <br>
 </p>
+<br>
+<br>
+
+![final_62b9e524aad80200603a2fac_482368](https://user-images.githubusercontent.com/81173375/175999759-d897fe1b-cd10-4e4a-aa81-0268a923c7e7.gif)
+<br>
+<br>
+<br>
+<br>
+![databaseprintblur](https://user-images.githubusercontent.com/81173375/175999885-aaa3bc21-6ea2-419f-b7b1-86aaa619fca9.jpg)
+<br>
+<br>
 
 ## Application Deploy
 
 https://phishing-media.vercel.app/
+<br>
+<br>
 
 ## Developers
 
