@@ -28,6 +28,7 @@ Project Status: :heavy_check_mark: Completed
 
 <p align="justify">
   This project was created by me with the simple objective of getting the login and password of the site where my teachers make the call list and release the grades of my school.<br>
+  This is an non-responsive site, because it was made using the teachers computer screen ratio in order to shoten the time to do it. <br>
   ⚠️Important: this project had no intention of changing any grade or harming anyone's work, it was just a challenge that I imposed on myself. 
 </p>
 
@@ -44,7 +45,7 @@ Project Status: :heavy_check_mark: Completed
 ## How it works
  <p>
 as the teachers' computer is in the classroom all the time, I went to it and changed the original site called: "Final Average" to my hosted "fake" site on google favorites.<br>
-When they entered the computer and made the call, they unknowingly clicked and typed the username and password in the input of my fake website and when they clicked "enter" their data is instantly sent to my database and the teacher is redirected to the website original without realizing what happened
+When they entered the computer and made the call, they unknowingly clicked and typed the username and password in the input of my fake website and when they clicked "Login" their data is instantly sent to my database and the teacher is redirected to the website original without realizing what happened
 </p>
 
 ## Application Deploy
