@@ -3,12 +3,12 @@ Project Status: :heavy_check_mark: Completed
 <br>
 <h2>Languages Used</h2>
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/81173375/173145423-a677d25e-9f54-4ffe-aaac-06fcb89c6f33.png" width="80" height="80"/>
-  <img src="https://user-images.githubusercontent.com/81173375/173145420-09145644-7cdd-4e9f-879a-9b4520f5bb06.png" width="80" height="80"/>
-  <img src="https://user-images.githubusercontent.com/81173375/173145425-0cb0b980-ebb6-4f06-a7f7-4ec6ffb2fc2c.png" width="80" height="80"/>
-  <img src="https://user-images.githubusercontent.com/81173375/173146357-fca3c8f1-6dfa-4f87-8514-96a3ab932f94.png" width="80" height="80"/>
-  <img src="https://user-images.githubusercontent.com/81173375/173146272-9169dc13-f37c-452a-bf60-99681dd1878e.png" width="80" height="80"/>
-  <img src="https://user-images.githubusercontent.com/81173375/173146918-272dd65b-ab58-4ed6-a802-c5bb7223bc93.png" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" height="80" alt="JAVASCRIPT"/>                     
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80" height="80" alt="TYPESCRIPT"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" height="80" alt="REACT"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" height="80" alt="HTML"/>   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" height="80" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="80" height="80" alt="POSTGREE"/>
 </p>
 
 ### Topics
